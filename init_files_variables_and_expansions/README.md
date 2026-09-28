@@ -13,3 +13,4 @@ Carpeta que contiene los scripts del proyecto de shell correspondientes a archiv
 - **8-true_knowledge**: Script que suma 128 al valor de la variable de entorno TRUEKNOWLEDGE.
 - **9-divide_and_rule**: Script que imprime el resultado de POWER dividido por DIVIDE.
 - **10-love_exponent_breath**: Script que muestra el resultado de BREATH elevado a la potencia LOVE.
+- **11-binary_to_decimal**: Script que convierte un número binario (variable BINARY) a base 10.
