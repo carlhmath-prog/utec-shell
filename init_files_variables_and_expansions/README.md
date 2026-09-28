@@ -12,3 +12,4 @@ Carpeta que contiene los scripts del proyecto de shell correspondientes a archiv
 - **7-create_global_variable**: Script que crea una nueva variable global llamada BEST con valor School.
 - **8-true_knowledge**: Script que suma 128 al valor de la variable de entorno TRUEKNOWLEDGE.
 - **9-divide_and_rule**: Script que imprime el resultado de POWER dividido por DIVIDE.
+- **10-love_exponent_breath**: Script que muestra el resultado de BREATH elevado a la potencia LOVE.
