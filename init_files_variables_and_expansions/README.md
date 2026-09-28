@@ -7,3 +7,4 @@ Carpeta que contiene los scripts del proyecto de shell correspondientes a archiv
 - **2-path**: Script que añade `/action` al final de la variable `PATH`.
 - **3-paths**: Script que cuenta el número de directorios en el PATH.
 - **4-global_variables**: Script que liste las variables de entorno.
+- **5-local_variables**: Script que liste todas las variables locales y de entorno, y las funciones.
