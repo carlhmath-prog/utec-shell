@@ -6,3 +6,4 @@ Carpeta que contiene los scripts del proyecto de shell correspondientes a archiv
 - **1-hello_you**: Script que imprime "hello" seguido del nombre del usuario actual de Linux.
 - **2-path**: Script que añade `/action` al final de la variable `PATH`.
 - **3-paths**: Script que cuenta el número de directorios en el PATH.
+- **4-global_variables**: Script que liste las variables de entorno.
