@@ -16,3 +16,4 @@ Carpeta que contiene los scripts del proyecto de shell correspondientes a archiv
 - **11-binary_to_decimal**: Script que convierte un número binario (variable BINARY) a base 10.
 - **12-combinations**: Script que imprime todas las combinaciones posibles de dos letras de la a a la z, excepto oo.
 - **13-print_float**: Script que imprime un número con dos decimales desde la variable NUM.
+- **14-decimal_to_hexadecimal**: Script que convierte un número de base 10 (variable DECIMAL) a base 16.
