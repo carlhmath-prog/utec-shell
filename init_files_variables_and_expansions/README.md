@@ -14,3 +14,4 @@ Carpeta que contiene los scripts del proyecto de shell correspondientes a archiv
 - **9-divide_and_rule**: Script que imprime el resultado de POWER dividido por DIVIDE.
 - **10-love_exponent_breath**: Script que muestra el resultado de BREATH elevado a la potencia LOVE.
 - **11-binary_to_decimal**: Script que convierte un número binario (variable BINARY) a base 10.
+- **12-combinations**: Script que imprime todas las combinaciones posibles de dos letras de la a a la z, excepto oo.
